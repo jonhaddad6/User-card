@@ -1,0 +1,42 @@
+.container {
+    background-color: whitesmoke;
+    height: 480px;
+    width: 900px;
+    border:3px solid gray;
+}
+
+.header {
+    background-color: darkcyan;
+    height: 110px;
+    width: 900px;
+}
+
+.content {
+    margin-top: 60px;
+    position: absolute;
+    margin-left: 50px;
+}
+
+.map_seattle {
+    display: inline-flex;
+    align-items: center;
+}
+
+.settings {
+    display: inline-flex;
+    align-items: center;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.margin_right {
+    margin-right: 10px;
+}
